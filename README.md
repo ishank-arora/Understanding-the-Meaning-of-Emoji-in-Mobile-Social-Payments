@@ -1,6 +1,6 @@
 ## Understanding the Meaning of Emoji in Mobile Social Payments
 
-This project uses this external [emoji](https://github.com/carpedm20/emoji/blob/master/README.rst) library. 
+This project uses the external [emoji](https://github.com/carpedm20/emoji/blob/master/README.rst) library, the [nltk](https://www.nltk.org/) library, and the [gensim](https://radimrehurek.com/gensim/) library.
 
 ###### Documentation
 * co_oc*.py - Files that showcase the co-occurrence code.
